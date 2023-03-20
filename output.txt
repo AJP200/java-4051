@@ -1,0 +1,6 @@
+Name: Aljalis Pineda
+Hours:         40
+Pay Rate:      $19.00
+Gross Pay:     $760.00
+Tax Deduction: $152.00
+Net Pay:       $608.00
